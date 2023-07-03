@@ -15,8 +15,8 @@ The Power of Statistics course is an essential component of the Google Certifica
 
 ## Contributing
 
-Contributions to this repository are not currently accepted as it is meant to contain practice activities specifically related to the Power of Statistics course. However, if you identify any errors or have suggestions for improvement, please feel free to open an issue in the repository, and we will address it accordingly.
+Contributions to this repository are not currently accepted as it is meant to contain practice activities specifically related to the Power of Statistics course. However, if you identify any errors or have suggestions for improvement, please feel free to open an issue in the repository, and I will address it accordingly.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and contents within this repository for educational purposes.
+This repository is licensed under the MIT License. You are free to use, modify, and distribute the code and contents within this repository for educational purposes.
