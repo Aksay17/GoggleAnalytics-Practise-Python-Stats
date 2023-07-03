@@ -20,9 +20,3 @@ Contributions to this repository are not currently accepted as it is meant to co
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and contents within this repository for educational purposes.
-
----
-
-Congratulations on taking the initiative to strengthen your statistical skills through the Power of Statistics Practice Activities! We hope this repository proves to be a valuable resource for your learning journey. If you have any further questions or need assistance, please don't hesitate to reach out.
-
-Happy learning, and best of luck with your Google Certification Advanced Data Analytics course!
